@@ -159,7 +159,7 @@ function FormProdukComponent({ onSave, onCancel, selectedProduk }) {
                      onChange={handleChange}
                   >
                      <option value="Aktif">Aktif</option>
-                     <option value="Tidak Aktif">Tidak Aktif</option>
+                     <option value="Tidak Aktif">Non-Aktif</option>
                   </select>
                </div>
 
